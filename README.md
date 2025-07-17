@@ -1,2 +1,2 @@
 # LightmanChain
-Lightman Chain A modular, tokenized, permissioned blockchain for insurance, powered by Hyperledger Fabric.
+Permissioned blockchain network using Hyperledger Fabric for insurance tokenization.
